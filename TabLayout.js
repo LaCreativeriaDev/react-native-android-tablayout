@@ -1,8 +1,9 @@
 /* @flow */
 import React, {
   Component,
-  PropTypes
+  // PropTypes
 } from 'react';
+import PropTypes from 'prop-types';
 import {
   ColorPropType,
   processColor,
